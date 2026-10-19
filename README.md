@@ -12,8 +12,6 @@ Hi, I'm Diya, a web developer passionate about building thoughtful, user-friendl
 ![](https://streak-stats.demolab.com/?user=lamisadiya&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=lamisadiya&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=lamisadiya&theme=vision-friendly-dark&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
