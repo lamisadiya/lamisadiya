@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi, I'm Diya, a web developer passionate about building thoughtful, user-friendly web experiences. I enjoy working at the intersection of design and development, turning ideas into functional, well-crafted websites.<br><br>- **Currently working on:** Building modern web applications with React, Next.js, and TypeScript.<br>- **Looking to collaborate on:** Meaningful projects that encourage creativity, teamwork, and continuous learning.<br>- **Looking for help with:** Exploring better development practices and solving complex technical challenges.<br>- **Currently learning:** Full-stack development and ways to build more scalable, maintainable applications.<br>- **Ask me about:** Frontend development, React, Next.js, TypeScript, and web design implementation.<br>- **Fun fact:** I enjoy refining the small details that make a website feel complete.<br><br>I'm always looking for opportunities to learn, take on new challenges, and grow as a developer through building real-world projects.
 
 
